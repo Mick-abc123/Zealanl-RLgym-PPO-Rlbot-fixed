@@ -1,4 +1,4 @@
-# RLGym-PPO RLBot Example
+# RLGym-PPO RLBot Example - Credits to Zealanl
 An example implementation of a [RLBot](https://rlbot.org/) agent for a trained [RLGym-PPO](https://github.com/AechPro/rlgym-ppo/) bot
 
 ## Steps To Set Up
